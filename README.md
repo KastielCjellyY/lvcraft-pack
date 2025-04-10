@@ -7,7 +7,7 @@ LVCraft is a mysticism-themed modpack for fabric 1.21.5 <br/>
 It consists mostly of hand-writtend mods. <br/>
 
 ## Installation
-1) Install Fabric 1.12.5
+1) Install Fabric 1.21.5
 2) Remove `mods` and `config` files from your `.minecraft` folder
 3) Git clone this repo
 4) Copy `config` and `mods` from this repo into your `.minecraft`
