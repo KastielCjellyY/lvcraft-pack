@@ -13,6 +13,8 @@ It consists mostly of hand-writtend mods. <br/>
 4) Copy `config` and `mods` from this repo into your `.minecraft`
 
 ## Mod List
+- <a href="https://github.com/KastielCjellyY/notes-of-madman">Notes Of Madman</a> <br/>
+> Half-library mod
 __(Will be descripted later)__
 
 ## Credits
