@@ -15,6 +15,7 @@ It consists mostly of hand-writtend mods. <br/>
 ## Mod List
 - <a href="https://github.com/KastielCjellyY/notes-of-madman">Notes Of Madman</a> <br/>
 > Half-library mod
+
 __(Will be descripted later)__
 
 ## Credits
